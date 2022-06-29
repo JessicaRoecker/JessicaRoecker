@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Atualmente estou aprendendo Git e Github
-- 🤔 Procuro sempre conhecimentos em linguagem de programação
+- 🌱 Atualmente estou aprendendo Linguagens de Programação
+- 🤔 Procurando sempre conhecimentos em linguagem de programação
 - 😄 Pronomes: ela/dela
 - 👩‍🎓 Estudo Engenharia de Software
 - 🏫 Faculdade Católica de Santa Catarina-Joinville
