@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Atualmente Fazendo faculdade,cursos da plataforma Alura
+- 🌱 Atualmente fazendo faculdade e cursos da plataforma Alura
 - 🤔 Procurando sempre conhecimentos na área da tecnologia
 - 😄 Pronomes: ela/dela
 - 👩‍🎓 Estudo Engenharia de Software
