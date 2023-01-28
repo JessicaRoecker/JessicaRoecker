@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Atualmente estou aprendendo Linguagens de Programação
-- 🤔 Procurando sempre conhecimentos em linguagem de programação
+- 🌱 Atualmente Fazendo faculdade,cursos da plataforma Alura
+- 🤔 Procurando sempre conhecimentos na área da tecnologia
 - 😄 Pronomes: ela/dela
 - 👩‍🎓 Estudo Engenharia de Software
 - 🏫 Faculdade Católica de Santa Catarina-Joinville
